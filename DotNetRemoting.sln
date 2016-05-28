@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetRemoting", "DotNetRemoting\DotNetRemoting.csproj", "{125754C3-B103-4D49-8668-F67C43880B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProduct", "MyProduct\MyProduct.csproj", "{FF328615-6E92-4CB9-945F-166A0F76CD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{06037057-83B0-40EB-9275-A99D2EB87489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{3932F861-6590-404F-8156-6B410A69AAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalikService", "SalikService\SalikService.csproj", "{794122B8-2132-4BFC-A8AA-3199469EE82F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizeServiceIPT", "ImageResizeServiceIPT\ImageResizeServiceIPT.csproj", "{7FA3A603-EEAD-4AE1-9A2B-BA02FFE1D8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageResizer", "..\..\..\..\Downloads\New folder (8)\ImageResizer\ImageResizer\ImageResizer.csproj", "{1E3ED734-50B4-4D79-A0D6-9CD308CD54CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125754C3-B103-4D49-8668-F67C43880B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125754C3-B103-4D49-8668-F67C43880B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125754C3-B103-4D49-8668-F67C43880B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125754C3-B103-4D49-8668-F67C43880B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF328615-6E92-4CB9-945F-166A0F76CD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF328615-6E92-4CB9-945F-166A0F76CD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF328615-6E92-4CB9-945F-166A0F76CD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF328615-6E92-4CB9-945F-166A0F76CD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06037057-83B0-40EB-9275-A99D2EB87489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06037057-83B0-40EB-9275-A99D2EB87489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06037057-83B0-40EB-9275-A99D2EB87489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06037057-83B0-40EB-9275-A99D2EB87489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3932F861-6590-404F-8156-6B410A69AAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3932F861-6590-404F-8156-6B410A69AAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3932F861-6590-404F-8156-6B410A69AAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3932F861-6590-404F-8156-6B410A69AAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794122B8-2132-4BFC-A8AA-3199469EE82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794122B8-2132-4BFC-A8AA-3199469EE82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794122B8-2132-4BFC-A8AA-3199469EE82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794122B8-2132-4BFC-A8AA-3199469EE82F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA3A603-EEAD-4AE1-9A2B-BA02FFE1D8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA3A603-EEAD-4AE1-9A2B-BA02FFE1D8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA3A603-EEAD-4AE1-9A2B-BA02FFE1D8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA3A603-EEAD-4AE1-9A2B-BA02FFE1D8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E3ED734-50B4-4D79-A0D6-9CD308CD54CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E3ED734-50B4-4D79-A0D6-9CD308CD54CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E3ED734-50B4-4D79-A0D6-9CD308CD54CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E3ED734-50B4-4D79-A0D6-9CD308CD54CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
